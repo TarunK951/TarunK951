@@ -1,175 +1,264 @@
-<h1 align="center">Hi there, I'm Satya Tarun 👋</h1>
-<h3 align="center">Frontend Developer · Crafting sleek, user-friendly web & mobile experiences</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://satyatarun.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/satya-tarun-k-91038424a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:satyatarun.951@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/9391954467" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Satya%20Tarun&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Mobile%20App%20Crafter%20%7C%20UI%2FUX%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TarunK951&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<a href="https://satyatarun.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/satya-tarun-k-91038424a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:satyatarun.951@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://wa.me/9391954467" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
 
----
+<br/>
 
-### 👨‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=TarunK951&label=Profile%20views&color=00C7B7&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/TarunK951?label=Followers&style=for-the-badge&color=0A66C2" alt="followers" />
 
-```js
-const tarun = {
-  role: "Frontend Developer",
-  webStack: ["React", "Next.js", "JavaScript", "HTML", "CSS"],
-  mobileStack: ["Flutter", "React Native"],
-  alsoLearning: ["Node.js", "MongoDB", "Java", "Python"],
-  designs: "with Figma",
-  passion: "building products that make an impact",
-  motto: "Quality code. Clean design. Smooth experience.",
-};
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<br/>
+
+🎯 **Frontend Developer** crafting sleek, responsive, and user-friendly digital experiences.
+
+🚀 I build **modern web apps** using `React`, `Next.js`, and `TypeScript` — paired with elegant UI design from `Figma`.
+
+📱 Recently diving into **cross-platform mobile development** with `Flutter` and `React Native`.
+
+🧠 Currently sharpening my **backend skills** with `Node.js` & `MongoDB`.
+
+💡 I believe in **clean code**, **thoughtful design**, and **smooth user experiences**.
+
+🌐 Explore my work → **[satyatarun.netlify.app](https://satyatarun.netlify.app)**
+
+📫 Reach me at → **satyatarun.951@gmail.com**
+
+<br/>
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+
+<br/><br/>
+
+```yaml
+name: Satya Tarun
+role: Frontend Developer
+location: India 🇮🇳
+focus: Web + Mobile UI
+mood: Always Learning ✨
 ```
 
-- 🔭 I build **sleek, responsive web apps** with React, Next.js, and modern JavaScript.
-- 📱 Recently started crafting **cross-platform mobile apps** with **Flutter** and **React Native** (projects coming soon to my portfolio).
-- 🎨 I design clean, modern interfaces in **Figma** before bringing them to life in code.
-- 🧠 Currently sharpening my skills in **backend development** with Node.js & MongoDB.
-- 🌐 Check out my live portfolio → **[satyatarun.netlify.app](https://satyatarun.netlify.app)**
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend (Web)**
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Tools, Cloud & Design**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-#### 🏥 NyraAI — AI-Powered Healthcare Platform
-> India's intelligent healthcare platform. Find top-rated hospitals, book specialist doctors, and access AI-driven patient care across **20+ specialties** and **50+ cities**.
-
-**Highlights:** AI voice agents handle patient calls 24/7 · automated SMS reminders that cut no-shows by up to 60% · live analytics across the entire hospital network · HIPAA-compliant and SOC 2 certified.
-
-`Next.js` · `React` · `Tailwind CSS` · `Node.js` · `AI/LLM`
-
-🔗 **Live:** [nyraai.io](https://www.nyraai.io)
-
----
-
-#### 🩺 HCS — Nyra AI Dashboard (Clinic & Hospital Management)
-> A full-featured clinic and hospital management system powering NyraAI. Role-based access for super admins, doctors, and receptionists with end-to-end appointment, patient, and revenue management.
-
-**Highlights:** appointments, patients, doctors, invoices & treatment plans · live calls, transcripts & conversation analytics · automated reminders, follow-ups, and medical sheets · real-time dashboards for revenue, NPS, and bed occupancy.
-
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Node.js` · `MongoDB`
-
-🔗 **Live:** [hcs.nyraai.io](https://hcs.nyraai.io/login)
-
----
-
-#### 📱 Husle Lifestyle — Premium Mobile Accessories E-commerce
-> A futuristic e-commerce experience for premium mobile cases, screen guards, and charging accessories. Apple-inspired design with glassmorphism, parallax scrolling, and cinematic product reveals.
-
-**Highlights:** liquid-glass UI with backdrop blur and micro-interactions · 3D product carousels and color-swap previews · full storefront with products, bundles, accessories, wishlist & cart · fully responsive across mobile, tablet, and desktop.
-
-`Next.js` · `React` · `Tailwind CSS` · `Framer Motion` · `Cloudinary`
-
-🔗 **Live:** [husle-self-project.vercel.app](https://husle-self-project.vercel.app)
-
----
-
-#### 🎯 Other Projects
-
-| Project | Description | Tech | Live |
-| :--- | :--- | :--- | :---: |
-| **CRED Clone** | A pixel-perfect clone of the CRED website with smooth animations and modern styling. | `HTML` `CSS` | — |
-| **React CRUD** | A full CRUD application built with React — add, edit, delete, and manage records seamlessly. | `React` `JavaScript` | [Repo](https://github.com/TarunK951/React-CRUD) |
-| **QuizCraft (Exam App)** | A dynamic quiz app with multiple-choice questions, real-time scoring, and a countdown timer. | `JavaScript` `HTML` `CSS` | [Live](https://tarunk951.github.io/QuizCraft/) |
-| **Things-TooDo (Reminder)** | A task manager with reminders, local storage, and a clean responsive UI. | `JavaScript` `HTML` `CSS` | [Repo](https://github.com/TarunK951/Things-TooDo) |
-| **Valentine** | A playful, click-based date proposal — interactive and full of personality. | `HTML` `CSS` `JavaScript` | [Live](https://tarunk951.github.io/vars/) |
-| **Simon's Game** | The classic memory game with color sequences, sound effects, and rising difficulty. | `JavaScript` `HTML` `CSS` | — |
-
-> 📱 **Mobile apps coming soon** — I'm currently building cross-platform apps with Flutter and React Native. They'll be added to my portfolio shortly.
->
-> 🌟 Explore everything on my [**portfolio**](https://satyatarun.netlify.app)
-
----
-
-### 🏆 Certifications
-
-- 📜 **Responsive Web Design** — [freeCodeCamp](https://www.freecodecamp.org/certification/fcc35d50086-0e3b-4c46-b3b9-2100268ce3f8/responsive-web-design)
-- 📜 **JavaScript Algorithms & Data Structures** — [freeCodeCamp](https://www.freecodecamp.org/certification/fcc35d50086-0e3b-4c46-b3b9-2100268ce3f8/javascript-algorithms-and-data-structures-v8)
-- 📜 **Front End Development Libraries** — [freeCodeCamp](https://www.freecodecamp.org/certification/fcc35d50086-0e3b-4c46-b3b9-2100268ce3f8/javascript-algorithms-and-data-structures)
-- 📜 **React JS** — Great Learning
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TarunK951&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Tarun's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunK951&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart,java,python" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunK951&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+### 🎨 Frontend (Web)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,vite" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TarunK951&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="48" />
 </p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 🎨 Design & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,vercel,netlify,postman" />
+</p>
+
+</div>
 
 ---
 
-### 📫 Get in Touch
+## 🚀 Featured Projects
 
-I'm always open to collaborations, freelance work, and good conversations about code & design.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🌐 Portfolio — [satyatarun.netlify.app](https://satyatarun.netlify.app)
-- 💼 LinkedIn — [satya-tarun-k](https://www.linkedin.com/in/satya-tarun-k-91038424a/)
-- 📧 Email — [satyatarun.951@gmail.com](mailto:satyatarun.951@gmail.com)
-- 💬 WhatsApp — [+91 93919 54467](https://wa.me/9391954467)
+### 🏥 NyraAI
+**AI-Powered Healthcare Platform**
+
+India's intelligent healthcare platform connecting patients with top hospitals across **20+ specialties** and **50+ cities**.
+
+✨ **Highlights**
+- 🤖 AI voice agents handling patient calls 24/7
+- 📲 Automated SMS reminders (60% fewer no-shows)
+- 📊 Live analytics across hospital networks
+- 🔒 HIPAA-compliant & SOC 2 certified
+
+`Next.js` `React` `Tailwind` `Node.js` `AI/LLM`
+
+🔗 **[Visit Live →](https://www.nyraai.io)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 HCS — Nyra AI Dashboard
+**Clinic & Hospital Management System**
+
+Full-featured management platform with role-based access for super admins, doctors, and receptionists.
+
+✨ **Highlights**
+- 👥 Appointments, patients, doctors & invoices
+- 📞 Live calls, transcripts & conversation analytics
+- 🔔 Automated reminders & follow-ups
+- 📈 Real-time revenue, NPS & bed occupancy
+
+`Next.js` `TypeScript` `Tailwind` `Node.js` `MongoDB`
+
+🔗 **[Visit Live →](https://hcs.nyraai.io/login)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Husle Lifestyle
+**Premium Mobile Accessories E-commerce**
+
+Apple-inspired e-commerce with glassmorphism, parallax scrolling, and cinematic product reveals.
+
+✨ **Highlights**
+- 💎 Liquid-glass UI with backdrop blur
+- 🎠 3D product carousels & color-swap previews
+- 🛒 Full storefront with wishlist & cart
+- 📱 Fully responsive across all devices
+
+`Next.js` `React` `Tailwind` `Framer Motion` `Cloudinary`
+
+🔗 **[Visit Live →](https://husle-self-project.vercel.app)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 More Projects
+
+| Project | Tech | Link |
+| :--- | :--- | :---: |
+| **CRED Clone** | `HTML` `CSS` | — |
+| **React CRUD** | `React` `JS` | [Repo](https://github.com/TarunK951/React-CRUD) |
+| **QuizCraft** | `JS` `HTML` `CSS` | [Live](https://tarunk951.github.io/QuizCraft/) |
+| **Things-TooDo** | `JS` `HTML` `CSS` | [Repo](https://github.com/TarunK951/Things-TooDo) |
+| **Valentine** | `HTML` `CSS` `JS` | [Live](https://tarunk951.github.io/vars/) |
+| **Simon's Game** | `JS` `HTML` `CSS` | — |
+
+> 📱 **Mobile apps coming soon** — building with Flutter & React Native!
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <i>"Passionate about crafting beautiful web & mobile experiences."</i>
-</p>
+## 🏆 Certifications
 
-<p align="center">⭐️ From <a href="https://github.com/TarunK951">TarunK951</a></p>
+<div align="center">
+
+| 📜 Certification | 🏛️ Issuer |
+| :--- | :--- |
+| [Responsive Web Design](https://www.freecodecamp.org/certification/fcc35d50086-0e3b-4c46-b3b9-2100268ce3f8/responsive-web-design) | freeCodeCamp |
+| [JavaScript Algorithms & Data Structures](https://www.freecodecamp.org/certification/fcc35d50086-0e3b-4c46-b3b9-2100268ce3f8/javascript-algorithms-and-data-structures-v8) | freeCodeCamp |
+| [Front End Development Libraries](https://www.freecodecamp.org/certification/fcc35d50086-0e3b-4c46-b3b9-2100268ce3f8/javascript-algorithms-and-data-structures) | freeCodeCamp |
+| React JS | Great Learning |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TarunK951&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunK951&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunK951&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=TarunK951&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TarunK951&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=ffffff" alt="Activity graph" width="95%" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm always open to **collaborations**, **freelance work**, and **good conversations** about code & design.
+
+<br/>
+
+<a href="https://satyatarun.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-00C7B7?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/satya-tarun-k-91038424a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:satyatarun.951@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/9391954467" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Favorite Quote
+
+> *"Quality code. Clean design. Smooth experience."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
+
+<sub>⭐ From <a href="https://github.com/TarunK951">TarunK951</a> with ❤️</sub>
+
+</div>
