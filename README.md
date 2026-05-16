@@ -57,8 +57,8 @@
 </td>
 <td width="45%" valign="middle" align="center">
 
-<!-- Reliable coding GIF — always loads -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding" />
+<!-- Official The Batman GIF from Warner Bros (verified Giphy) -->
+<img src="https://media1.giphy.com/media/WrCEs6hKW2oS7Gb0ch/giphy.gif" width="100%" alt="The Batman — Vengeance" />
 
 </td>
 </tr>
