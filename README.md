@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Header: THE BATMAN poster style — deep red bg, bold black title -->
+<!-- Header: Deep Batman red bg, bold black title -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B31217&height=240&section=header&text=SATYA%20TARUN&fontSize=85&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%E2%80%A2%20MOBILE%20CRAFTER%20%E2%80%A2%20UI%2FUX%20ENTHUSIAST&descAlignY=58&descSize=16&descColor=000000" width="100%" />
 
-<!-- Tagline — types in once, stays. Black on the page, like the slash on the poster -->
+<!-- Tagline — types in once, stays -->
 <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=42&duration=2500&pause=99999999&color=B31217&center=true&vCenter=true&repeat=false&width=900&height=70&lines=CRAFTING+SLEEK+WEB+%26+MOBILE+EXPERIENCES" alt="Tagline" />
 
 <br/>
 
-<!-- Action Buttons — deep red Batman style -->
+<!-- Action Buttons -->
 <p>
   <a href="https://satyatarun.netlify.app">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=netlify&logoColor=B31217&labelColor=000000" />
@@ -34,7 +34,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="middle">
 
 <br/>
 
@@ -55,23 +55,10 @@
 <br/>
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="45%" valign="middle" align="center">
 
-<br/>
-
-<!-- The Batman 2022 poster-style SVG -->
-<img src="./batman-vibe.svg" width="320" alt="The Batman" />
-
-<br/><br/>
-
-```yaml
-name:     Satya Tarun
-role:     Frontend Developer
-location: India 🇮🇳
-focus:    Web + Mobile UI
-stack:    React · Next.js · Flutter
-mood:     Always Building ⚡
-```
+<!-- Reliable coding GIF — always loads -->
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding" />
 
 </td>
 </tr>
@@ -83,34 +70,31 @@ mood:     Always Building ⚡
 
 <div align="center">
 
-### 🩸 &nbsp; Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,dart,java,python&theme=dark" />
-
 <br/>
 
-### 🌐 &nbsp; Frontend (Web)
+**🌐 &nbsp; Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,vite&theme=dark" />
-
-<br/>
-
-### 📱 &nbsp; Mobile Development
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark" />
-<img src="https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=B31217" height="48" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite&theme=dark" />
 
 <br/><br/>
 
-### ⚙️ &nbsp; Backend & Database
+**📱 &nbsp; Mobile**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark" />
 
-<br/>
+<br/><br/>
 
-### 🛠 &nbsp; Design & Tools
+**⚙️ &nbsp; Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,java,python&theme=dark" />
+
+<br/><br/>
+
+**🎨 &nbsp; Design & Tools**
 
 <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,vercel,netlify,postman&theme=dark" />
+
+<br/><br/>
 
 </div>
 
@@ -266,7 +250,6 @@ I'm always open to **collaborations**, **freelance work**, and **good conversati
 
 <br/>
 
-<!-- Footer: Same Batman red wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B31217&height=140&section=footer" width="100%" />
 
 <sub>⭐ &nbsp; Crafted with 🩸 by <a href="https://github.com/TarunK951/TarunK951">TarunK951</a></sub>
