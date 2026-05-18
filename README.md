@@ -106,44 +106,6 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 &nbsp; NyraAI
-**AI-Powered Healthcare Platform**
-
-India's intelligent healthcare platform connecting patients with top hospitals across **20+ specialties** and **50+ cities**.
-
-✨ &nbsp; **Highlights**
-- 🤖 AI voice agents handling patient calls 24/7
-- 📲 Automated SMS reminders (60% fewer no-shows)
-- 📊 Live analytics across hospital networks
-- 🔒 HIPAA-compliant & SOC 2 certified
-
-`Next.js` &nbsp;`React` &nbsp;`Tailwind` &nbsp;`Node.js` &nbsp;`AI/LLM`
-
-🔗 &nbsp; **[Visit Live →](https://www.nyraai.io)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 &nbsp; HCS — Nyra AI Dashboard
-**Clinic & Hospital Management System**
-
-Full-featured management platform with role-based access for super admins, doctors, and receptionists.
-
-✨ &nbsp; **Highlights**
-- 👥 Appointments, patients, doctors & invoices
-- 📞 Live calls, transcripts & conversation analytics
-- 🔔 Automated reminders & follow-ups
-- 📈 Real-time revenue, NPS & bed occupancy
-
-`Next.js` &nbsp;`TypeScript` &nbsp;`Tailwind` &nbsp;`Node.js` &nbsp;`MongoDB`
-
-🔗 &nbsp; **[Visit Live →](https://hcs.nyraai.io/login)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 📱 &nbsp; Husle Lifestyle
 **Premium Mobile Accessories E-commerce**
 
@@ -166,12 +128,12 @@ Apple-inspired e-commerce with glassmorphism, parallax scrolling, and cinematic 
 
 | Project | Tech | Link |
 | :--- | :--- | :---: |
-| **CRED Clone** | `HTML` `CSS` | — |
-| **React CRUD** | `React` `JS` | [Repo](https://github.com/TarunK951/React-CRUD) |
-| **QuizCraft** | `JS` `HTML` `CSS` | [Live](https://tarunk951.github.io/QuizCraft/) |
-| **Things-TooDo** | `JS` `HTML` `CSS` | [Repo](https://github.com/TarunK951/Things-TooDo) |
-| **Valentine** | `HTML` `CSS` `JS` | [Live](https://tarunk951.github.io/vars/) |
-| **Simon's Game** | `JS` `HTML` `CSS` | — |
+| **CRED Clone** | `Next.js` `React` | — |
+| **React CRUD** | `Next.js` `React` | [Repo](https://github.com/TarunK951/React-CRUD) |
+| **QuizCraft** | `Next.js` `React` | [Live](https://tarunk951.github.io/QuizCraft/) |
+| **Things-TooDo** | `Next.js` `React` | [Repo](https://github.com/TarunK951/Things-TooDo) |
+| **Valentine** | `Next.js` `React` | [Live](https://tarunk951.github.io/vars/) |
+| **Simon's Game** | `Next.js` `React` | — |
 
 > 📱 **Mobile apps coming soon** — building with Flutter & React Native!
 
