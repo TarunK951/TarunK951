@@ -143,6 +143,35 @@ Apple-inspired e-commerce with glassmorphism, parallax scrolling, and cinematic 
 
 ---
 
+## 💼 &nbsp; Experience
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🏥 &nbsp; Frontend Developer — **NyraAI**
+`2025 — Present`  &nbsp;•&nbsp;  *AI-Powered Healthcare Platform*
+
+Building intelligent, scalable interfaces for India's next-gen healthcare platform — connecting patients with hospitals across 20+ specialties and 50+ cities.
+
+🔹 &nbsp; Developing responsive, production-grade UIs with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**  
+🔹 &nbsp; Building the **HCS Dashboard** — a clinic & hospital management system with role-based access for admins, doctors, and receptionists  
+🔹 &nbsp; Integrating **AI voice agents**, live call transcripts, and real-time conversation analytics into the UI  
+🔹 &nbsp; Designing dashboards for appointments, patients, invoices, revenue, NPS, and bed occupancy  
+🔹 &nbsp; Collaborating with backend & AI teams to ship HIPAA-compliant, SOC 2-certified features
+
+`Next.js` &nbsp;`React` &nbsp;`TypeScript` &nbsp;`Tailwind CSS` &nbsp;`Node.js` &nbsp;`MongoDB`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🏆 &nbsp; Certifications
 
 <div align="center">
@@ -152,7 +181,7 @@ Apple-inspired e-commerce with glassmorphism, parallax scrolling, and cinematic 
 | [Responsive Web Design](https://www.freecodecamp.org/certification/fcc35d50086-0e3b-4c46-b3b9-2100268ce3f8/responsive-web-design) | freeCodeCamp |
 | [JavaScript Algorithms & Data Structures](https://www.freecodecamp.org/certification/fcc35d50086-0e3b-4c46-b3b9-2100268ce3f8/javascript-algorithms-and-data-structures-v8) | freeCodeCamp |
 | [Front End Development Libraries](https://www.freecodecamp.org/certification/fcc35d50086-0e3b-4c46-b3b9-2100268ce3f8/javascript-algorithms-and-data-structures) | freeCodeCamp |
-| React JS | Great Learning |
+| React JS & Next.js | Great Learning |
 
 </div>
 
