@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Header: Deep Batman red bg, bold black title -->
+<!-- Header: Deep Batman red bg, bold black tit -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B31217&height=240&section=header&text=SATYA%20TARUN&fontSize=85&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%E2%80%A2%20MOBILE%20CRAFTER%20%E2%80%A2%20UI%2FUX%20ENTHUSIAST&descAlignY=58&descSize=16&descColor=000000" width="100%" />
 
 <!-- Tagline — types in once, stays -->
