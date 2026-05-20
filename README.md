@@ -124,7 +124,30 @@ Apple-inspired e-commerce with glassmorphism, parallax scrolling, and cinematic 
 </td>
 <td width="50%" valign="top">
 
+### 🛡️ &nbsp; Florente Insurance
+**Insurance Aggregator & Comparison Platform**
+
+IRDAI-style insurance marketplace — compare and buy policies from 50+ insurers in under 3 minutes.
+
+✨ &nbsp; **Highlights**
+- 🏥 Six verticals — Health, Term Life, Car, Bike, Travel & Business
+- 🧮 Built-in calculators (sum-insured, IDV, term-life cover)
+- 📊 Live quote comparison & claims workflow UI
+- ✍️ Plain-English blog engine with category filters
+
+`Next.js` &nbsp;`React` &nbsp;`TypeScript` &nbsp;`Tailwind` &nbsp;`Vercel`
+
+🔗 &nbsp; **[Visit Live →](https://florente-insurance.vercel.app/)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ### 🎯 &nbsp; More Projects
+
+<div align="center">
 
 | Project | Tech | Link |
 | :--- | :--- | :---: |
@@ -137,9 +160,7 @@ Apple-inspired e-commerce with glassmorphism, parallax scrolling, and cinematic 
 
 > 📱 **Mobile apps coming soon** — building with Flutter & React Native!
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -192,57 +213,4 @@ Building intelligent, scalable interfaces for India's next-gen healthcare platfo
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TarunK951&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=B31217&icon_color=B31217&text_color=ffffff&bg_color=000000" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunK951&layout=compact&hide_border=true&title_color=B31217&text_color=ffffff&bg_color=000000&langs_count=8" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunK951&hide_border=true&background=000000&stroke=B31217&ring=B31217&fire=B31217&currStreakLabel=B31217&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" width="85%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=TarunK951&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TarunK951&bg_color=000000&color=B31217&line=B31217&point=ffffff&area=true&hide_border=true&area_color=B31217&custom_title=Tarun's%20Contribution%20Graph" alt="Activity graph" width="95%" />
-
-</div>
-
----
-
-## 📫 &nbsp; Let's Connect
-
-<div align="center">
-
-I'm always open to **collaborations**, **freelance work**, and **good conversations** about code & design.
-
-<br/>
-
-<a href="https://satyatarun.netlify.app">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-B31217?style=for-the-badge&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://www.linkedin.com/in/satya-tarun-k-91038424a/">
-  <img src="https://img.shields.io/badge/LinkedIn-B31217?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-</a>
-<a href="mailto:satyatarun.951@gmail.com">
-  <img src="https://img.shields.io/badge/Email-B31217?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://wa.me/9391954467">
-  <img src="https://img.shields.io/badge/WhatsApp-B31217?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 &nbsp; *"Quality code. Clean design. Smooth experience."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B31217&height=140&section=footer" width="100%" />
-
-<sub>⭐ &nbsp; Crafted with 🩸 by <a href="https://github.com/TarunK951/TarunK951">TarunK951</a></sub>
-
-</div>
+<img height="180em" src="https://github-
