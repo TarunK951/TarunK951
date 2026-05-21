@@ -143,25 +143,6 @@ IRDAI-style insurance marketplace — compare and buy policies from 50+ insurers
 </tr>
 </table>
 
-<br/>
-
-### 🎯 &nbsp; More Projects
-
-<div align="center">
-
-| Project | Tech | Link |
-| :--- | :--- | :---: |
-| **CRED Clone** | `Next.js` | — |
-| **React CRUD** | `React` | [Repo](https://github.com/TarunK951/React-CRUD) |
-| **QuizCraft** | `React` | [Live](https://tarunk951.github.io/QuizCraft/) |
-| **Things-TooDo** | `React` | [Repo](https://github.com/TarunK951/Things-TooDo) |
-| **Valentine** | `React` | [Live](https://tarunk951.github.io/vars/) |
-| **Simon's Game** | `React` | — |
-
-> 📱 **Mobile apps coming soon** — building with Flutter & React Native!
-
-</div>
-
 ---
 
 ## 💼 &nbsp; Experience
@@ -179,6 +160,7 @@ Building intelligent, scalable interfaces for India's next-gen healthcare platfo
 
 🔹 &nbsp; Developing responsive, production-grade UIs with **Next.js**, **TypeScript**, and **Tailwind CSS**  
 🔹 &nbsp; Building the **HCS Dashboard** — a clinic & hospital management system with role-based access for admins, doctors, and receptionists  
+🔹 &nbsp; Building the **Sales App** — a CRM-style platform for the sales team to manage leads, track deals through the pipeline, and monitor conversions in real time  
 🔹 &nbsp; Integrating **AI voice agents**, live call transcripts, and real-time conversation analytics into the UI  
 🔹 &nbsp; Designing dashboards for appointments, patients, invoices, revenue, NPS, and bed occupancy  
 🔹 &nbsp; Collaborating with backend & AI teams to ship HIPAA-compliant, SOC 2-certified features
