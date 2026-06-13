@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Header: Deep Batman red bg, bold black tit -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B31217&height=240&section=header&text=SATYA%20TARUN&fontSize=85&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%E2%80%A2%20MOBILE%20CRAFTER%20%E2%80%A2%20UI%2FUX%20ENTHUSIAST&descAlignY=58&descSize=16&descColor=000000" width="100%" />
+<!-- Header: black → Batman-red gradient, soft shape, white title -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:B31217&height=230&section=header&text=SATYA%20TARUN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=FRONTEND%20%E2%80%A2%20REACT%20NATIVE%20%E2%80%A2%20UI%2FUX&descAlignY=62&descSize=17&descColor=ffffff" width="100%" />
 
 <!-- Tagline — types in once, stays -->
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=42&duration=2500&pause=99999999&color=B31217&center=true&vCenter=true&repeat=false&width=900&height=70&lines=CRAFTING+SLEEK+WEB+%26+MOBILE+EXPERIENCES" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=42&duration=2500&pause=99999999&color=B31217&center=true&vCenter=true&repeat=false&width=900&height=70&lines=BUILDING+SLEEK+WEB+%26+MOBILE+EXPERIENCES" alt="Tagline" />
 
 <br/>
 
@@ -38,13 +38,15 @@
 
 <br/>
 
-🎯 &nbsp; **Frontend Developer** crafting sleek, responsive, and user-friendly digital experiences.
+🎯 &nbsp; **Frontend & Mobile Developer** crafting sleek, responsive, user-first digital experiences.
 
-🚀 &nbsp; I build **modern web apps** using `React`, `Next.js`, and `TypeScript` — paired with elegant UI design from `Figma`.
+📱 &nbsp; I build **cross-platform mobile apps** with **`React Native`** & **`Expo`** — navigation, animations, and native-feeling UI are my comfort zone.
 
-📱 &nbsp; Recently diving into **cross-platform mobile development** with `Flutter` and `React Native`.
+🚀 &nbsp; On the web, I ship **modern apps** with `React`, `Next.js`, and `TypeScript`, paired with clean UI from `Figma`.
 
-🧠 &nbsp; Currently sharpening my **backend skills** with `Node.js` & `MongoDB`.
+🎞️ &nbsp; I love **motion & polish** — `Reanimated`, `Framer Motion`, glassmorphism, and smooth micro-interactions.
+
+🧠 &nbsp; Backend-curious — building with `Node.js` & `MongoDB`.
 
 💡 &nbsp; I believe in **clean code**, **thoughtful design**, and **smooth user experiences**.
 
@@ -57,7 +59,6 @@
 </td>
 <td width="45%" valign="middle" align="center">
 
-<!-- Official The Batman GIF from Warner Bros (verified Giphy) -->
 <img src="https://media1.giphy.com/media/WrCEs6hKW2oS7Gb0ch/giphy.gif" width="100%" alt="The Batman — Vengeance" />
 
 </td>
@@ -72,15 +73,19 @@
 
 <br/>
 
-**🌐 &nbsp; Frontend**
+**📱 &nbsp; Mobile** &nbsp;·&nbsp; *primary focus*
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,flutter,dart&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=B31217&labelColor=000000" />
+<img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=ffffff&labelColor=000000" />
+<img src="https://img.shields.io/badge/Reanimated-000000?style=for-the-badge&logo=react&logoColor=B31217&labelColor=000000" />
 
 <br/><br/>
 
-**📱 &nbsp; Mobile**
+**🌐 &nbsp; Frontend**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite&theme=dark" />
 
 <br/><br/>
 
@@ -161,11 +166,12 @@ Building intelligent, scalable interfaces for India's next-gen healthcare platfo
 🔹 &nbsp; Developing responsive, production-grade UIs with **Next.js**, **TypeScript**, and **Tailwind CSS**  
 🔹 &nbsp; Building the **HCS Dashboard** — a clinic & hospital management system with role-based access for admins, doctors, and receptionists  
 🔹 &nbsp; Building the **Sales App** — a CRM-style platform for the sales team to manage leads, track deals through the pipeline, and monitor conversions in real time  
+🔹 &nbsp; Crafting **cross-platform mobile interfaces** with **React Native** & **Expo**  
 🔹 &nbsp; Integrating **AI voice agents**, live call transcripts, and real-time conversation analytics into the UI  
 🔹 &nbsp; Designing dashboards for appointments, patients, invoices, revenue, NPS, and bed occupancy  
 🔹 &nbsp; Collaborating with backend & AI teams to ship HIPAA-compliant, SOC 2-certified features
 
-`Next.js` &nbsp;`TypeScript` &nbsp;`Tailwind CSS` &nbsp;`Node.js` &nbsp;`MongoDB`
+`Next.js` &nbsp;`TypeScript` &nbsp;`Tailwind CSS` &nbsp;`React Native` &nbsp;`Node.js` &nbsp;`MongoDB`
 
 </td>
 </tr>
@@ -190,11 +196,11 @@ Building intelligent, scalable interfaces for India's next-gen healthcare platfo
 
 ---
 
-## 📊 &nbsp; GitHub Stats
+## 📈 &nbsp; GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TarunK951&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=B31217&icon_color=B31217&text_color=ffffff&bg_color=000000" alt="GitHub stats" />
+<!-- Auto-updates from your repos. Shows LANGUAGES (JS/TS/etc) — React Native is a framework, so it appears as JavaScript/TypeScript here, not "React Native". -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunK951&layout=compact&hide_border=true&title_color=B31217&text_color=ffffff&bg_color=000000&langs_count=8" alt="Top languages" />
 
 <br/><br/>
@@ -244,7 +250,7 @@ I'm always open to **collaborations**, **freelance work**, and **good conversati
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B31217&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:B31217,100:000000&height=140&section=footer" width="100%" />
 
 <sub>⭐ &nbsp; Crafted with 🩸 by <a href="https://github.com/TarunK951/TarunK951">TarunK951</a></sub>
 
