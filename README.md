@@ -125,6 +125,7 @@ Apple-inspired e-commerce with glassmorphism, parallax scrolling, and cinematic 
 `Next.js` &nbsp;`Tailwind` &nbsp;`Framer Motion` &nbsp;`Cloudinary`
 
 🔗 &nbsp; **[Visit Live →](https://husle-self-project.vercel.app)**
+🔗 &nbsp; **[Visit Live →](https://ihusle.com)**
 
 </td>
 <td width="50%" valign="top">
