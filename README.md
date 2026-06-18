@@ -158,7 +158,7 @@ IRDAI-style insurance marketplace — compare and buy policies from 50+ insurers
 <tr>
 <td width="100%" valign="top">
 
-### 🏥 &nbsp; Frontend Developer — **NyraAI**
+### 🏥 &nbsp; Frontend Web & Mobile App Developer — **NyraAI**
 `2025 — Present`  &nbsp;•&nbsp;  *AI-Powered Healthcare Platform*
 
 Building intelligent, scalable interfaces for India's next-gen healthcare platform — connecting patients with hospitals across 20+ specialties and 50+ cities.
