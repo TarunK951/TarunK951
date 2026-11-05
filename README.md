@@ -10,7 +10,7 @@
 
 <!-- Action Buttons -->
 <p>
-  <a href="https://satyatarun.netlify.app">
+  <a href="https://satyatarun.work">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=netlify&logoColor=B31217&labelColor=000000" />
   </a>
   <a href="https://www.linkedin.com/in/satya-tarun-k-91038424a/">
